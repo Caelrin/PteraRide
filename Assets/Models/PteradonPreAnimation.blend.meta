@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: fd5bc16524391cf4dbccc38b451e3c66
+timeCreated: 1472338551
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Beak_B_002
+    100004: Beak_B_003
+    100006: Beak_B_004
+    100008: Beak_B_01
+    100010: Beak_T_002
+    100012: Beak_T_003
+    100014: Beak_T_004
+    100016: Beak_T_01
+    100018: Body_002
+    100020: Body_003
+    100022: Body_004
+    100024: Body_005
+    100026: Body_006
+    100028: Body_007
+    100030: Body_008
+    100032: Body_01
+    100034: Cylinder
+    100036: Leg_L_002
+    100038: Leg_L_003
+    100040: Leg_L_004
+    100042: Leg_L_005
+    100044: Leg_L_006
+    100046: Leg_L_01
+    100048: Leg_R_002
+    100050: Leg_R_003
+    100052: Leg_R_004
+    100054: Leg_R_005
+    100056: Leg_R_006
+    100058: Leg_R_007
+    100060: Leg_R_01
+    100062: Neck_002
+    100064: Neck_003
+    100066: Neck_004
+    100068: Neck_005
+    100070: Neck_006
+    100072: Neck_007
+    100074: Neck_008
+    100076: Neck_01
+    100078: //RootNode
+    100080: Wing_L_004
+    100082: Wing_L_005
+    100084: Wing_L_006
+    100086: Wing_L_007
+    100088: Wing_L_008
+    100090: Wing_L_009
+    100092: Wing_L_01
+    100094: Wing_L_010
+    100096: Wing_L_011
+    100098: Wing_L_012
+    100100: Wing_L_013
+    100102: Wing_L_014
+    100104: Wing_L_02
+    100106: Wing_R_002
+    100108: Wing_R_003
+    100110: Wing_R_005
+    100112: Wing_R_006
+    100114: Wing_R_007
+    100116: Wing_R_008
+    100118: Wing_R_009
+    100120: Wing_R_01
+    100122: Wing_R_010
+    100124: Wing_R_011
+    100126: Wing_R_012
+    100128: Wing_R_013
+    400000: Armature
+    400002: Beak_B_002
+    400004: Beak_B_003
+    400006: Beak_B_004
+    400008: Beak_B_01
+    400010: Beak_T_002
+    400012: Beak_T_003
+    400014: Beak_T_004
+    400016: Beak_T_01
+    400018: Body_002
+    400020: Body_003
+    400022: Body_004
+    400024: Body_005
+    400026: Body_006
+    400028: Body_007
+    400030: Body_008
+    400032: Body_01
+    400034: Cylinder
+    400036: Leg_L_002
+    400038: Leg_L_003
+    400040: Leg_L_004
+    400042: Leg_L_005
+    400044: Leg_L_006
+    400046: Leg_L_01
+    400048: Leg_R_002
+    400050: Leg_R_003
+    400052: Leg_R_004
+    400054: Leg_R_005
+    400056: Leg_R_006
+    400058: Leg_R_007
+    400060: Leg_R_01
+    400062: Neck_002
+    400064: Neck_003
+    400066: Neck_004
+    400068: Neck_005
+    400070: Neck_006
+    400072: Neck_007
+    400074: Neck_008
+    400076: Neck_01
+    400078: //RootNode
+    400080: Wing_L_004
+    400082: Wing_L_005
+    400084: Wing_L_006
+    400086: Wing_L_007
+    400088: Wing_L_008
+    400090: Wing_L_009
+    400092: Wing_L_01
+    400094: Wing_L_010
+    400096: Wing_L_011
+    400098: Wing_L_012
+    400100: Wing_L_013
+    400102: Wing_L_014
+    400104: Wing_L_02
+    400106: Wing_R_002
+    400108: Wing_R_003
+    400110: Wing_R_005
+    400112: Wing_R_006
+    400114: Wing_R_007
+    400116: Wing_R_008
+    400118: Wing_R_009
+    400120: Wing_R_01
+    400122: Wing_R_010
+    400124: Wing_R_011
+    400126: Wing_R_012
+    400128: Wing_R_013
+    2300000: Cylinder
+    3300000: Cylinder
+    4300000: Cylinder
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
